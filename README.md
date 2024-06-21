@@ -4,7 +4,8 @@
 <h3 align="center">A passionate Software Developer from India</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=gaurang-khator&label=Profile%20views&color=0e75b6&style=flat" alt="gaurang-khator" /> </p>
-
+- 🌱 I’m currently learning <b>Full Stack Development and DSA in C++.</b> 
+<br>
 - 📫 How to reach me **gaurangkhator04@gmail.com**
 
 <h3 align="left">Connect with me:</h3><br>
