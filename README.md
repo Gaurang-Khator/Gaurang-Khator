@@ -67,7 +67,7 @@
 <h3>GitHub Trophies:</h3>
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Gaurang-Khator&theme=onedark&margin-w=5&no-bg=true&no-frame=true" alt="gaurang-khator" /></p>
-‹img src="https://raw.githubusercontent.com/Gaurang-Khator/Gaurang-Khator/output/snake.svg" alt="Snake animation" / >
+
 
 ###
 
