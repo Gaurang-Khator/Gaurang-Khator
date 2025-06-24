@@ -21,10 +21,8 @@
 
 <h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">&nbsp; GitHub Analytics</h3>
 <p align="center">
-  <a href="https://github.com/Gaurang-Khator">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurang-Khator&theme=gruvbox&hide_border=false" />
+    <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=Gaurang-Khator&theme=gruvbox&hide_border=false" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurang-Khator&layout=donut&theme=gruvbox" />
-  </a>
 </p>
 
 ---
