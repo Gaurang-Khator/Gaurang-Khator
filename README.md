@@ -21,8 +21,8 @@
 
 <h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">&nbsp; GitHub Analytics</h3>
 <p align="center">
-    <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=Gaurang-Khator&theme=gruvbox&hide_border=false" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurang-Khator&layout=donut&theme=gruvbox" />
+    <img height="200em" src="https://github-readme-streak-stats-eight.vercel.app/?user=Gaurang-Khator&theme=gruvbox&hide_border=false" />
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurang-Khator&layout=donut&theme=gruvbox&cache_seconds=1800&include_all_commits=true" />
 </p>
 
 ---
