@@ -30,7 +30,7 @@
 ## 🏆 Achievements & Certifications
  
 - ✅ AWS Certified Cloud Practitioner [Credly](https://www.credly.com/users/gaurang_khator)
-- 🧠 Solved 250+ problems on [LeetCode](https://leetcode.com/u/gaurang_khator/)  
+- 🧠 Solved 420+ problems on [LeetCode](https://leetcode.com/u/gaurang_khator/)  
 - 🥈 NPTEL Cloud Computing – Silver Medalist
 
 ---
