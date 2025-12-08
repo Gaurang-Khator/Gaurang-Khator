@@ -22,13 +22,13 @@
 <h3 align="left"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Languages and Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css,nodejs" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=express,react,nextjs,mongodb,mysql,postgresql,aws" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,mongodb,mysql" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel" />
+  <img src="https://skillicons.dev/icons?i=postgresql,aws,git,github,postman,vercel" />
 </p>
 
 ---
