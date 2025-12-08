@@ -3,8 +3,9 @@
 
 <h3 align="center">Software Engineer 💻 | AWS Certified ☁️ | Full-Stack Developer ⚙️</h3>
 
----
-## 🌟 About Me  
+
+
+<h3 align="left"> 🌟 About Me </h3>
 
 💡 A passionate B.Tech in Computer Science Engineering student at Vellore Institute of Technology. I love building impactful digital solutions with clean, efficient code. 
 
@@ -31,7 +32,7 @@
 </p>
 
 ---
-## 🎯 Coding Profiles
+<h3 align="left"> 🎯 Coding Profiles </h3>
 
 <div align="center">
 
@@ -78,7 +79,7 @@
 
 ---
 
-## 📫 Connect With Me
+<h3 align="left"> 📫 Connect With Me </h3>
 
 <div align="center">
 
