@@ -11,7 +11,7 @@
 
 💻🚀 Skilled in C++, Java, Python, JavaScript, and the MERN stack (MongoDB, Express.js, React.js, Node.js) alongside Next.js, Tailwind CSS, and AWS, I build scalable and user-friendly web applications.
 
-🌟 Certified <a href="https://www.credly.com/badges/251ae1b6-0001-417e-b258-8348026dadf6/public_url" target="_blank"><em style="text-decoration: none;"> AWS Cloud Practitioner</em></a> with a passion for competitive programming—having solved 470+ challenges and maintained a peak LeetCode rating of 1726 and Codeforces rating of 1013.
+🌟 Certified <a href="https://www.credly.com/badges/251ae1b6-0001-417e-b258-8348026dadf6/public_url" target="_blank"><em style="text-decoration: none;"> AWS Cloud Practitioner</em></a> with a passion for competitive programming—having solved 500+ problems and maintained a peak LeetCode rating of 1726 and Codeforces rating of 1013.
 
 🏆 Achievements include being a Hacktoberfest 2025 Super Contributor, runner-up in the BugOff Hackathon, and leading the technical team of the E-Commerce Club at VIT.
 
