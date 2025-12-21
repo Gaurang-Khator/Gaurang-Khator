@@ -19,17 +19,17 @@
 
 ---
 
-<h3 align="left"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Languages and Tools</h3>
+<h3 align="left">⚙️ Languages and Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts,html,css,tailwind,nodejs,express,react,nextjs,mongodb,mysql,dynamodb,aws,git,github,postman,vercel,docker,prisma,vscode" />
 </p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,mongodb,mysql" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,aws,git,github,postman,vercel" />
-</p>
+<!-- <p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,mongodb,mysql,dynamodb" />
+</p> -->
+<!-- <p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,git,github,postman,vercel,docker,prisma,vscode" />
+</p> -->
 
 ---
 <h3 align="left"> 🎯 Coding Profiles </h3>
