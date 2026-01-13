@@ -21,15 +21,21 @@
 
 <h3 align="left">⚙️ Languages and Tools</h3>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts,html,css,tailwind,nodejs,express,react,nextjs,mongodb,mysql,dynamodb,aws,git,github,postman,vercel,docker,prisma,vscode" />
-</p>
-<!-- <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,mongodb,mysql,dynamodb" />
-</p> -->
-<!-- <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,git,github,postman,vercel,docker,prisma,vscode" />
-</p> -->
+<div style="display: flex; align-items: center; gap: 10px;">
+  <h4 style="margin: 0;">Programming</h4>
+  <img src="https://skillicons.dev/icons?i=cpp,python,ts,js,java" />
+</div>
+
+<div style="display: flex; align-items: center; gap: 10px;">
+  <h4 style="margin: 0; ">Technologies & Frameworks</h4>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mysql,mongodb,tailwind,aws,dynamodb,html,css" />
+</div>
+
+<div style="display: flex; align-items: center; gap: 10px;">
+  <h4 style="margin: 0;"> Developer Tools</h4>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,docker" />
+</div>
+
 
 ---
 <h3 align="left"> 🎯 Coding Profiles </h3>
@@ -45,7 +51,7 @@
 </a>
 </td>
 <td align="center" width="25%">
-<a href="https://codeforces.com/profile/gaurang_khator" target="_blank">
+<a href="https://codeforces.com/profile/gaurang_khator" target="_blank" >
 <img src="https://img.icons8.com/?size=100&id=jldAN67IAsrW&format=png&color=000000" width="80" alt="Codeforces"/><br/>
 <b>Codeforces</b>
 </a>
