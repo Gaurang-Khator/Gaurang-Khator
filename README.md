@@ -1,7 +1,7 @@
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> I'm Gaurang Khator!</h1>
 
 
-<h3 align="center">Software Engineer 💻 | AWS Certified ☁️ | Full-Stack Developer ⚙️</h3>
+<h3 align="center">Software Engineer {Full-Stack & Gen-AI} 💻 | AWS Certified ☁️ </h3>
 
 
 
@@ -28,7 +28,7 @@
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <h4 style="margin: 0; ">Technologies & Frameworks</h4>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mysql,mongodb,tailwind,aws,dynamodb,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mysql,mongodb,tailwind,aws,dynamodb,html,css,spring" />
 </div>
 
 <div style="display: flex; align-items: center; gap: 10px;">
