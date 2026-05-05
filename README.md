@@ -1,7 +1,7 @@
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> I'm Gaurang Khator!</h1>
 
 
-<h3 align="center">Software Engineer {Full-Stack & Gen-AI} 💻 | AWS Certified ☁️ </h3>
+<h3 align="center">Software Engineer {Gen-AI & Full-Stack Developer} 💻 | AWS Certified ☁️ </h3>
 
 
 
