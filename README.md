@@ -1,101 +1,563 @@
-<h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> I'm Gaurang Khator!</h1>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Gaurang%20Khator&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Gen-AI%20Developer%20%7C%20AWS%20Certified&descAlignY=58&descColor=e0e7ff" />
 
-<h3 align="center">Software Engineer {Gen-AI & Full-Stack Developer} 💻 | AWS Certified ☁️ </h3>
-
-
-
-<h3 align="left"> 🌟 About Me </h3>
-
-💡 A passionate B.Tech in Computer Science Engineering student at Vellore Institute of Technology. I love building impactful digital solutions with clean, efficient code. 
-
-💻🚀 Skilled in C++, Java, Python, JavaScript, and the MERN stack (MongoDB, Express.js, React.js, Node.js) alongside Next.js, Tailwind CSS, and AWS, I build scalable and user-friendly web applications.
-
-🌟 Certified <a href="https://www.credly.com/badges/251ae1b6-0001-417e-b258-8348026dadf6/public_url" target="_blank"><em style="text-decoration: none;"> AWS Cloud Practitioner</em></a> with a passion for competitive programming—having solved 550+ problems and maintained a peak LeetCode rating of 1851 - Knight Badge (Top 5.93% Globally) and Codeforces rating of 1013.
-
-🏆 Achievements include being a Hacktoberfest 2025 Super Contributor, runner-up in the BugOff Hackathon, and leading the technical team of the E-Commerce Club at VIT.
-
-🤝 I’m eager to collaborate, share knowledge, and contribute to innovative projects. Let’s connect and create something amazing together! 
-
----
-
-<h3 align="left">⚙️ Languages and Tools</h3>
-
-<div style="display: flex; align-items: center; gap: 10px;">
-  <h4 style="margin: 0;">Programming</h4>
-  <img src="https://skillicons.dev/icons?i=cpp,python,ts,js,java" />
 </div>
-
-<div style="display: flex; align-items: center; gap: 10px;">
-  <h4 style="margin: 0; ">Technologies & Frameworks</h4>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mysql,mongodb,tailwind,aws,dynamodb,html,css,spring" />
-</div>
-
-<div style="display: flex; align-items: center; gap: 10px;">
-  <h4 style="margin: 0;"> Developer Tools</h4>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,docker" />
-</div>
-
-
----
-<h3 align="left"> 🎯 Coding Profiles </h3>
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
-<a href="https://leetcode.com/u/gaurang_khator/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="80" alt="LeetCode"/><br/>
-<b>LeetCode</b>
-</a>
-</td>
-<td align="center" width="25%">
-<a href="https://codeforces.com/profile/gaurang_khator" target="_blank" >
-<img src="https://img.icons8.com/?size=100&id=jldAN67IAsrW&format=png&color=000000" width="80" alt="Codeforces"/><br/>
-<b>Codeforces</b>
-</a>
-</td>
-<td align="center" width="25%">
-<a href="https://www.hackerrank.com/profile/gaurangkhator04" target="_blank">
-<img src="https://img.icons8.com/?size=100&id=giWSfyxmIIiG&format=png&color=000000" width="80" alt="HackerRank"/><br/>
-<b>HackerRank</b>
-</a>
-</td>
-<td align="center" width="25%">
-<a href="https://www.geeksforgeeks.org/user/gaurang_khator/" target="_blank">
-<img src="https://img.icons8.com/?size=100&id=AbQBhN9v62Ob&format=png&color=000000" width="80" alt="GeeksforGeeks"/><br/>
-<b>GeeksforGeeks</b>
-</a>
-</td>
-</tr>
-</table>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Gaurang+Khator+👋;Full-Stack+%26+Gen-AI+Engineer;AWS+Certified+Cloud+Practitioner+☁️;LeetCode+Knight+%7C+Top+6%25+Worldwide+🏆;Building+impactful+products+with+AI+&+Full-Stack+Engineering+🚀)](https://git.io/typing-svg)
 
 </div>
 
----
-
-<h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">&nbsp; GitHub Analytics</h3>
 <p align="center">
-    <!-- <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gaurang-Khator&theme=gruvbox" /> -->
-    <img height="250em" src="https://github-readme-activity-graph.vercel.app/graph?username=Gaurang-Khator&theme=react-dark"/>
-    <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gaurang-Khator&theme=gruvbox" />
-    <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gaurang-Khator&theme=gruvbox" />
+  <img src="https://img.shields.io/github/followers/Gaurang-Khator?style=for-the-badge&color=6366f1">
+  <img src="https://img.shields.io/github/stars/Gaurang-Khator?affiliations=OWNER&style=for-the-badge&color=6366f1">
+</p>
+
+
+# 👨‍💻 About Me
+
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> 
+
+```yaml
+name: Gaurang Khator
+located_in: Ahmedabad, India
+education:
+  [
+    "B.Tech(Computer Science & Engineering) @ Vellore Institute of Technology",
+  ]
+
+fields_of_interest:
+  [
+    "Generative AI",
+    "Agentic AI",
+    "RAG Systems",
+    "Full Stack Development",
+    "Cloud Computing",
+    "System Design"
+  ]
+
+currently_learning:
+  [
+    "LangGraph",
+    "Multi-Agent Systems",
+    "AWS Cloud Architecture"
+  ]
+
+hobbies: ["Cricket", "Open Source", "Building Side Projects"]
+```
+
+- 🔥 Passionate about building scalable and impactful digital products
+- 🤖 Exploring Agentic AI, LangGraph, LangChain, and RAG systems
+- 🌐 Full-Stack Developer focused on MERN & Next.js ecosystems
+- ☁️ AWS Certified Cloud Practitioner
+- 🧠 LeetCode Knight with 1851 Rating
+- 💻 Solved 570+ DSA problems across coding platforms
+- 🚀 Building AI-powered SaaS and cloud-native applications
+
+
+
+
+<h2 align="center">⚙️ Tech Stack</h2>
+
+<div align="center">
+
+```bash
+❯ whoami
+  gaurang khator · full-stack engineer · gen-ai developer · aws certified
+```
+
+</div>
+
+<div align="center">
+<table>
+
+<tr>
+<td align="center" colspan="2">
+<br/>
+
+**💻 &nbsp;`~/languages`**
+
+<br/>
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+<br/><br/>
+</td>
+</tr>
+
+<tr>
+<td valign="top" width="50%">
+<br/>
+
+**🌐 &nbsp;`~/frontend`**
+
+<br/>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-1a1a1a?style=for-the-badge&logo=shadcnui&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+<br/><br/>
+</td>
+<td valign="top" width="50%">
+<br/>
+
+**⚡ &nbsp;`~/backend`**
+
+<br/>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+<br/><br/>
+</td>
+</tr>
+
+<tr>
+<td valign="top" width="50%">
+<br/>
+
+**🗄️ &nbsp;`~/databases`**
+
+<br/>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+
+<br/><br/>
+</td>
+<td valign="top" width="50%">
+<br/>
+
+**☁️ &nbsp;`~/cloud`**
+
+<br/>
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Lambda](https://img.shields.io/badge/λ_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=black)
+![API Gateway](https://img.shields.io/badge/API_Gateway-E535AB?style=for-the-badge&logo=amazonapigateway&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+<br/><br/>
+</td>
+</tr>
+
+<tr>
+<td align="center" colspan="2">
+<br/>
+
+**🤖 &nbsp;`~/ai-genai`**
+
+<br/>
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)&nbsp;
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)&nbsp;
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
+![Sarvam AI](https://img.shields.io/badge/Sarvam_AI-FF6B35?style=for-the-badge&logoColor=white)&nbsp;
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)&nbsp;
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6366F1?style=for-the-badge&logoColor=white)
+
+<br/><br/>
+</td>
+</tr>
+
+<tr>
+<td align="center" colspan="2">
+<br/>
+
+**🛠️ &nbsp;`~/dev-tools`**
+
+<br/>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
+
+<br/><br/>
+</td>
+</tr>
+
+</table>
+</div>
+
+<div align="center">
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=7EE787&center=true&vCenter=true&width=600&lines=%E2%9C%93+stack+loaded+%C2%B7+7+categories+%C2%B7+32+technologies+%C2%B7+ready+to+ship" />
 
 </p>
 
----
-
-<h3 align="left"> 📫 Connect With Me </h3>
+## 🚀 Featured Projects
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/gaurang2201)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/gaurang_khator)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaurangkhator.work@gmail.com)
+```bash
+❯ ~/projects ls -la --sort=recent
+```
+
+<table>
+<tr>
+
+<td valign="top" width="50%">
+<br/>
+
+**🤖 &nbsp;Multi-Agent AI Research System**
+
+<br/>
+
+Fully automated research pipeline — specialized LLM agents that search, scrape, write and self-critique end-to-end.
+
+<br/>
+
+| Feature | Detail |
+|---|---|
+| 🔍 Search Agent | Live web data retrieval |
+| 📖 Reader Agent | Deep URL scraping |
+| ✍️ Writer + Critic | LCEL report chains |
+| ⭐ Quality Score | Auto grading system |
+
+<br/>
+
+**Stack &nbsp;·&nbsp;** `Python` &nbsp;`LangChain` &nbsp;`Gemini` &nbsp;`LCEL` &nbsp;`Streamlit`
+
+<br/>
+
+[![Repo](https://img.shields.io/badge/⎇_repo-21262d?style=flat-square&logo=github&logoColor=white)](https://github.com/Gaurang-Khator)
+
+<br/>
+</td>
+
+<td valign="top" width="50%">
+<br/>
+
+**🏥 &nbsp;ArogyaAI**
+
+<br/>
+
+Multilingual AI healthcare assistant enabling medical consultations in 5+ Indian regional languages with secure auth.
+
+<br/>
+
+| Feature | Detail |
+|---|---|
+| 🌐 5+ Languages | Mayura, Bulbul, Saarika |
+| 🏗️ Full-stack | Next.js + Node + MongoDB |
+| 🔐 Secure Auth | Clerk sessions |
+| 🧩 Modular AI | RAG-ready service layer |
+
+<br/>
+
+**Stack &nbsp;·&nbsp;** `Next.js` &nbsp;`Node.js` &nbsp;`MongoDB` &nbsp;`Gemini` &nbsp;`Sarvam AI` &nbsp;`Clerk`
+
+<br/>
+
+[![Repo](https://img.shields.io/badge/⎇_repo-21262d?style=flat-square&logo=github&logoColor=white)](https://github.com/Gaurang-Khator)
+[![Live](https://img.shields.io/badge/↗_live-238636?style=flat-square&logo=vercel&logoColor=white)](https://gaurangkhator.vercel.app)
+
+<br/>
+</td>
+
+</tr>
+<tr>
+
+<td valign="top" width="50%">
+<br/>
+
+**💸 &nbsp;CashTrail**
+
+<br/>
+
+Cloud-native serverless expense tracker — auto-scaling, event-driven architecture with zero server management overhead.
+
+<br/>
+
+| Feature | Detail |
+|---|---|
+| ☁️ Serverless | AWS Lambda auto-scaling |
+| ⚡ Event-driven | Async DynamoDB triggers |
+| 🔐 Secure Auth | Clerk protected routes |
+| 🎨 25% faster | Reusable component patterns |
+
+<br/>
+
+**Stack &nbsp;·&nbsp;** `Next.js` &nbsp;`AWS Lambda` &nbsp;`DynamoDB` &nbsp;`Tailwind` &nbsp;`Clerk`
+
+<br/>
+
+[![Repo](https://img.shields.io/badge/⎇_repo-21262d?style=flat-square&logo=github&logoColor=white)](https://github.com/Gaurang-Khator)
+[![Live](https://img.shields.io/badge/↗_live-238636?style=flat-square&logo=vercel&logoColor=white)](https://gaurangkhator.vercel.app)
+
+<br/>
+</td>
+
+<td valign="top" width="50%">
+<br/>
+
+**📦 &nbsp;More Coming Soon &nbsp; `WIP`**
+
+<br/>
+
+Currently building the next project. Follow on GitHub for updates — shipping soon.
+
+<br/>
+
+| Status | — |
+|---|---|
+| 🔒 Repo | Private · in development |
+| ⚙️ Stack | Next.js · AI · Cloud |
+| 📅 ETA | Shipping soon... |
+
+<br/>
+
+**Status &nbsp;·&nbsp;** `in progress` &nbsp;`private repo`
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/follow_for_updates-21262d?style=flat-square&logo=github&logoColor=white)](https://github.com/Gaurang-Khator)
+
+<br/>
+</td>
+
+</tr>
+</table>
+
+```bash
+✓ 3 projects shipped · 1 in progress · all deployed to production
+```
 
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=ayushvishnoipro&icon=4&color=6)](https://visitcount.itsvg.in)
+## 🏆 Achievements
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+```bash
+❯ ~/achievements cat stats.json | pretty-print
+```
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+<br/>
+
+**⚔️ &nbsp;`LeetCode`**
+
+<br/>
+
+![Rating](https://img.shields.io/badge/Rating-1851-e3b341?style=for-the-badge&logoColor=white)
+
+**Knight Badge 🏅**
+
+```
+Rank   · 51,202 / 874,510
+Top    · 6% Globally
+Streak · 32 Contests
+```
+
+![Knight](https://img.shields.io/badge/🏅_Knight_Badge-2d1e0a?style=flat-square&logoColor=e3b341&color=2d1e0a&labelColor=2d1e0a)
+![Top6](https://img.shields.io/badge/Top_6%25_Global-e3b341?style=flat-square&logoColor=black)
+
+<br/>
+</td>
+
+<td align="center" width="33%">
+<br/>
+
+**🧩 &nbsp;`Problem Solving`**
+
+<br/>
+
+![Solved](https://img.shields.io/badge/Solved-570+-7ee787?style=for-the-badge&logoColor=white)
+
+**Multi-Platform**
+
+```
+LeetCode   · Knight  · 1851
+Codeforces · Newbie+ · 1013
+HackerRank · 5★ Problem Solving
+```
+
+![DSA](https://img.shields.io/badge/DSA-Expert-1a2e1a?style=flat-square&color=1a2e1a&labelColor=1a2e1a)
+![CF](https://img.shields.io/badge/Codeforces-1013-79c0ff?style=flat-square)
+
+<br/>
+</td>
+
+<td align="center" width="33%">
+<br/>
+
+**🌱 &nbsp;`Open Source`**
+
+<br/>
+
+![PRs](https://img.shields.io/badge/PRs_Merged-6-f778ba?style=for-the-badge&logoColor=white)
+
+**Hacktoberfest 2025**
+
+```
+Level  · Super Contributor
+PRs    · 6 merged
+Badge  · Earned ✓
+```
+
+![Hacktoberfest](https://img.shields.io/badge/🏆_Super_Contributor-f778ba?style=flat-square&logoColor=white)
+
+<br/>
+</td>
+
+</tr>
+<tr>
+
+<td align="center" width="50%">
+<br/>
+
+**☁️ &nbsp;`Certification`**
+
+<br/>
+
+![AWS](https://img.shields.io/badge/AWS_Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+```
+Cloud Practitioner · May 2025
+Issuer · Amazon Web Services
+Status · Active ✓
+```
+
+[![Verify](https://img.shields.io/badge/↗_verify_on_credly-2d1e0a?style=flat-square&logoColor=e3b341)](https://www.credly.com/badges/251ae1b6-0001-417e-b258-8348026dadf6/public_url)
+
+<br/>
+</td>
+
+<td align="center" width="50%">
+<br/>
+
+**👥 &nbsp;`Leadership`**
+
+<br/>
+
+![Lead](https://img.shields.io/badge/Tech_Lead-VIT_E--Commerce_Club-7ee787?style=for-the-badge&logoColor=white)
+
+```
+Mentored · 10+ members
+Hackathon · BugOff Runner-Up 🥈
+Sport     · University Cricket Team 🏏
+```
+
+![Club](https://img.shields.io/badge/E--Commerce_Club-Lead-1a2e1a?style=flat-square&color=1a2e1a)
+![BugOff](https://img.shields.io/badge/🥈_BugOff_Runner--Up-1a2035?style=flat-square&color=1a2035&labelColor=1a2035)
+
+<br/>
+</td>
+
+</tr>
+</table>
+
+```bash
+✓ 570+ problems · 1851 LC rating · 6 PRs merged · AWS certified
+```
+
+</div>
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gaurang-Khator&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurang-Khator&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gaurang-Khator&theme=tokyo-night&hide_border=true"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gaurang-Khator&theme=tokyonight"/>
+
+</div>
+
+# 🎯 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/gaurang_khator/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+</a>
+
+<a href="https://codeforces.com/profile/gaurang_khator" target="_blank">
+<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/gaurang_khator/" target="_blank">
+<img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/gaurangkhator04" target="_blank">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+</a>
+
+</div>
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:gaurangkhator.work@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/gaurang2201">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Gaurang-Khator">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://gaurangkhator.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+<div align="center">
+
+### 💀 while(alive) { eat(); code(); sleep(); repeat(); }
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+
+</div>
+
+
+<div align="center">
+
+<h3 align="center">
+Open to internships, collaborations, and full-time opportunities 🚀
+</h3>
+
+<p align="center">
+Let's build impactful technology together.
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Gaurang-Khator&label=Profile%20Views&color=6366f1&style=for-the-badge"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer" />
+
+</div>
