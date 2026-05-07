@@ -158,7 +158,7 @@ Fully automated research pipeline — specialized LLM agents that search, scrape
 
 <br/>
 
-[![Repo](https://img.shields.io/badge/⎇_repo-21262d?style=flat-square&logo=github&logoColor=white)](https://github.com/Gaurang-Khator/multi-agent+AI+system)
+[![Repo](https://img.shields.io/badge/⎇_repo-21262d?style=flat-square&logo=github&logoColor=white)](https://github.com/Gaurang-Khator/multi-agent-AI-research-system)
 
 <br/>
 </td>
@@ -187,7 +187,7 @@ Multilingual AI healthcare assistant enabling medical consultations in 5+ Indian
 
 <br/>
 
-[![Repo](https://img.shields.io/badge/⎇_repo-21262d?style=flat-square&logo=github&logoColor=white)](https://github.com/Gaurang-Khator/Arogya-AI)
+[![Repo](https://img.shields.io/badge/⎇_repo-21262d?style=flat-square&logo=github&logoColor=white)](https://github.com/Gaurang-Khator/ArogyaAI)
 [![Live](https://img.shields.io/badge/↗_live-238636?style=flat-square&logo=vercel&logoColor=white)](https://arogya-ai-web.vercel.app/)
 
 <br/>
