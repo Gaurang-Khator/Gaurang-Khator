@@ -134,7 +134,7 @@ hobbies: ["Cricket", "Open Source", "Building Side Projects"]
 <table>
 <tr>
 
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 <br/>
 
 **🤖 &nbsp;Multi-Agent AI Research System**
@@ -158,12 +158,12 @@ Fully automated research pipeline — specialized LLM agents that search, scrape
 
 <br/>
 
-[![Repo](https://img.shields.io/badge/⎇_repo-21262d?style=flat-square&logo=github&logoColor=white)](https://github.com/Gaurang-Khator)
+[![Repo](https://img.shields.io/badge/⎇_repo-21262d?style=flat-square&logo=github&logoColor=white)](https://github.com/Gaurang-Khator/multi-agent+AI+system)
 
 <br/>
 </td>
 
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 <br/>
 
 **🏥 &nbsp;ArogyaAI**
@@ -187,16 +187,13 @@ Multilingual AI healthcare assistant enabling medical consultations in 5+ Indian
 
 <br/>
 
-[![Repo](https://img.shields.io/badge/⎇_repo-21262d?style=flat-square&logo=github&logoColor=white)](https://github.com/Gaurang-Khator)
-[![Live](https://img.shields.io/badge/↗_live-238636?style=flat-square&logo=vercel&logoColor=white)](https://gaurangkhator.vercel.app)
+[![Repo](https://img.shields.io/badge/⎇_repo-21262d?style=flat-square&logo=github&logoColor=white)](https://github.com/Gaurang-Khator/Arogya-AI)
+[![Live](https://img.shields.io/badge/↗_live-238636?style=flat-square&logo=vercel&logoColor=white)](https://arogya-ai-web.vercel.app/)
 
 <br/>
 </td>
 
-</tr>
-<tr>
-
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 <br/>
 
 **💸 &nbsp;CashTrail**
@@ -220,36 +217,8 @@ Cloud-native serverless expense tracker — auto-scaling, event-driven architect
 
 <br/>
 
-[![Repo](https://img.shields.io/badge/⎇_repo-21262d?style=flat-square&logo=github&logoColor=white)](https://github.com/Gaurang-Khator)
-[![Live](https://img.shields.io/badge/↗_live-238636?style=flat-square&logo=vercel&logoColor=white)](https://gaurangkhator.vercel.app)
-
-<br/>
-</td>
-
-<td valign="top" width="50%">
-<br/>
-
-**📦 &nbsp;More Coming Soon &nbsp; `WIP`**
-
-<br/>
-
-Currently building the next project. Follow on GitHub for updates — shipping soon.
-
-<br/>
-
-| Status | — |
-|---|---|
-| 🔒 Repo | Private · in development |
-| ⚙️ Stack | Next.js · AI · Cloud |
-| 📅 ETA | Shipping soon... |
-
-<br/>
-
-**Status &nbsp;·&nbsp;** `in progress` &nbsp;`private repo`
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/follow_for_updates-21262d?style=flat-square&logo=github&logoColor=white)](https://github.com/Gaurang-Khator)
+[![Repo](https://img.shields.io/badge/⎇_repo-21262d?style=flat-square&logo=github&logoColor=white)](https://github.com/Gaurang-Khator/cashtrail)
+[![Live](https://img.shields.io/badge/↗_live-238636?style=flat-square&logo=vercel&logoColor=white)](https://cashtrail-app.vercel.app/)
 
 <br/>
 </td>
@@ -257,7 +226,7 @@ Currently building the next project. Follow on GitHub for updates — shipping s
 </tr>
 </table>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=7EE787&center=true&vCenter=true&width=600&lines=%E2%9C%93+3+projects+shipped+%C2%B7+1+in+progress+%C2%B7+all+deployed+to+production" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=7EE787&center=true&vCenter=true&width=600&lines=%E2%9C%93+3+projects+shipped+%C2%B7+all+deployed+to+production" />
 
 </div>
 
