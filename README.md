@@ -15,8 +15,9 @@
   <img src="https://img.shields.io/github/stars/Gaurang-Khator?affiliations=OWNER&style=for-the-badge&color=6366f1">
 </p>
 
+---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> 
 
@@ -56,10 +57,9 @@ hobbies: ["Cricket", "Open Source", "Building Side Projects"]
 - 💻 Solved 570+ DSA problems across coding platforms
 - 🚀 Building AI-powered SaaS and cloud-native applications
 
+---
 
-
-
-<h2 align="center">⚙️ Tech Stack</h2>
+## ⚙️ Tech Stack
 
 <div align="center">
 
@@ -68,140 +68,60 @@ hobbies: ["Cricket", "Open Source", "Building Side Projects"]
   gaurang khator · full-stack engineer · gen-ai developer · aws certified
 ```
 
+**💻 Languages**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)&nbsp;
+
+**🤖 AI / Gen-AI**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)&nbsp;
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)&nbsp;
+![RAG](https://img.shields.io/badge/RAG_Systems-6366F1?style=flat-square&logoColor=white)&nbsp;
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)&nbsp;
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)&nbsp;
+![Sarvam AI](https://img.shields.io/badge/Sarvam_AI-FF6B35?style=flat-square&logoColor=white)&nbsp;
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)&nbsp;
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6366F1?style=flat-square&logoColor=white)
+
+**🌐 Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)&nbsp;
+![Tailwind](https://img.shields.io/badge/Tailwind-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)&nbsp;
+![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-1a1a1a?style=flat-square&logo=shadcnui&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**⚡ Backend &nbsp;·&nbsp; 🗄️ Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)&nbsp;
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)&nbsp;
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)&nbsp;
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+
+**☁️ Cloud &nbsp;·&nbsp; 🛠️ DevTools**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)&nbsp;
+![Lambda](https://img.shields.io/badge/λ_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=black)&nbsp;
+![API Gateway](https://img.shields.io/badge/API_Gateway-E535AB?style=flat-square&logo=amazonapigateway&logoColor=white)&nbsp;
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)&nbsp;
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)
+
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=7EE787&center=true&vCenter=true&width=600&lines=%E2%9C%93+stack+loaded+%C2%B7+8+categories+%C2%B7+34+technologies+%C2%B7+ready+to+ship" />
+
 </div>
 
-<div align="center">
-<table>
-
-<tr>
-<td align="center" colspan="2">
-<br/>
-
-**💻 &nbsp;`~/languages`**
-
-<br/>
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-<br/><br/>
-</td>
-</tr>
-
-<tr>
-<td valign="top" width="50%">
-<br/>
-
-**🌐 &nbsp;`~/frontend`**
-
-<br/>
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
-![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-1a1a1a?style=for-the-badge&logo=shadcnui&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-<br/><br/>
-</td>
-<td valign="top" width="50%">
-<br/>
-
-**⚡ &nbsp;`~/backend`**
-
-<br/>
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-
-<br/><br/>
-</td>
-</tr>
-
-<tr>
-<td valign="top" width="50%">
-<br/>
-
-**🗄️ &nbsp;`~/databases`**
-
-<br/>
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-
-<br/><br/>
-</td>
-<td valign="top" width="50%">
-<br/>
-
-**☁️ &nbsp;`~/cloud`**
-
-<br/>
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Lambda](https://img.shields.io/badge/λ_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=black)
-![API Gateway](https://img.shields.io/badge/API_Gateway-E535AB?style=for-the-badge&logo=amazonapigateway&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-<br/><br/>
-</td>
-</tr>
-
-<tr>
-<td align="center" colspan="2">
-<br/>
-
-**🤖 &nbsp;`~/ai-genai`**
-
-<br/>
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)&nbsp;
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)&nbsp;
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
-![Sarvam AI](https://img.shields.io/badge/Sarvam_AI-FF6B35?style=for-the-badge&logoColor=white)&nbsp;
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)&nbsp;
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6366F1?style=for-the-badge&logoColor=white)
-
-<br/><br/>
-</td>
-</tr>
-
-<tr>
-<td align="center" colspan="2">
-<br/>
-
-**🛠️ &nbsp;`~/dev-tools`**
-
-<br/>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
-![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
-
-<br/><br/>
-</td>
-</tr>
-
-</table>
-</div>
-
-<div align="center">
-
-<p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=7EE787&center=true&vCenter=true&width=600&lines=%E2%9C%93+stack+loaded+%C2%B7+7+categories+%C2%B7+32+technologies+%C2%B7+ready+to+ship" />
-
-</p>
+---
 
 ## 🚀 Featured Projects
 
@@ -337,11 +257,11 @@ Currently building the next project. Follow on GitHub for updates — shipping s
 </tr>
 </table>
 
-```bash
-✓ 3 projects shipped · 1 in progress · all deployed to production
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=7EE787&center=true&vCenter=true&width=600&lines=%E2%9C%93+3+projects+shipped+%C2%B7+1+in+progress+%C2%B7+all+deployed+to+production" />
 
 </div>
+
+---
 
 ## 🏆 Achievements
 
@@ -469,17 +389,15 @@ Sport     · University Cricket Team 🏏
 </tr>
 </table>
 
-```bash
-✓ 570+ problems · 1851 LC rating · 6 PRs merged · AWS certified
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=7EE787&center=true&vCenter=true&width=600&lines=%E2%9C%93+570%2B+problems+%C2%B7+1851+LC+rating+%C2%B7+6+PRs+merged+%C2%B7+AWS+certified" />
 
 </div>
 
-# 📊 GitHub Analytics
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gaurang-Khator&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurang-Khator&theme=tokyonight&hide_border=true"/>
 
@@ -493,7 +411,9 @@ Sport     · University Cricket Team 🏏
 
 </div>
 
-# 🎯 Coding Profiles
+---
+
+## 🎯 Coding Profiles
 
 <div align="center">
 
@@ -515,7 +435,9 @@ Sport     · University Cricket Team 🏏
 
 </div>
 
-# 🌐 Connect With Me
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
 
@@ -537,24 +459,17 @@ Sport     · University Cricket Team 🏏
 
 </div>
 
+---
+
 <div align="center">
 
 ### 💀 while(alive) { eat(); code(); sleep(); repeat(); }
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 
-</div>
+<h3 align="center">Open to internships, collaborations, and full-time opportunities 🚀</h3>
 
-
-<div align="center">
-
-<h3 align="center">
-Open to internships, collaborations, and full-time opportunities 🚀
-</h3>
-
-<p align="center">
-Let's build impactful technology together.
-</p>
+<p align="center">Let's build impactful technology together.</p>
 
 <img src="https://komarev.com/ghpvc/?username=Gaurang-Khator&label=Profile%20Views&color=6366f1&style=for-the-badge"/>
 
