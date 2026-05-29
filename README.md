@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Gaurang%20Khator&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Gen-AI%20Developer%20%7C%20AWS%20Certified&descAlignY=58&descColor=e0e7ff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Gaurang%20Khator&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Gen-AI%20Developer%20%7C%20Full-Stack%20Engineer%20%7C%20AWS%20Certified&descAlignY=58&descColor=e0e7ff" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Gaurang+Khator+👋;Full-Stack+%26+Gen-AI+Engineer;AWS+Certified+Cloud+Practitioner+☁️;LeetCode+Knight+%7C+Top+6%25+Worldwide+🏆;Building+impactful+products+with+AI+&+Full-Stack+Engineering+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Gaurang+Khator+👋;Gen-AI+%26+Full-Stack+Engineer;AWS+Certified+Cloud+Practitioner+☁️;LeetCode+Knight+%7C+Top+6%25+Worldwide+🏆;Building+impactful+products+with+AI+&+Full-Stack+Engineering+🚀)](https://git.io/typing-svg)
 
 </div>
 
