@@ -34,6 +34,7 @@ fields_of_interest:
     "Generative AI",
     "Agentic AI",
     "RAG Systems",
+    "Multi-Agent Systems",
     "Full Stack Development",
     "Cloud Computing",
     "System Design"
@@ -42,7 +43,6 @@ fields_of_interest:
 currently_learning:
   [
     "LangGraph",
-    "Multi-Agent Systems",
     "AWS Cloud Architecture"
   ]
 
