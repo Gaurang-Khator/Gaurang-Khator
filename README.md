@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Gaurang%20Khator&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Gen-AI%20Developer%20%7C%20Full-Stack%20Engineer%20%7C%20AWS%20Certified&descAlignY=58&descColor=e0e7ff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Gaurang%20Khator&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Generative%20AI%20Developer%20%7C%20Full%20Stack%20Engineer%20%7C%20AWS%20Certified&descAlignY=58&descColor=e0e7ff" />
 
 </div>
 
@@ -36,14 +36,13 @@ fields_of_interest:
     "RAG Systems",
     "Multi-Agent Systems",
     "Full Stack Development",
-    "Cloud Computing",
-    "System Design"
+    "Cloud Computing"
   ]
 
 currently_learning:
   [
     "LangGraph",
-    "AWS Cloud Architecture"
+    "System Design"
   ]
 
 hobbies: ["Cricket", "Open Source", "Building Side Projects"]
@@ -65,7 +64,7 @@ hobbies: ["Cricket", "Open Source", "Building Side Projects"]
 
 ```bash
 ❯ whoami
-  gaurang khator · full-stack engineer · gen-ai developer · aws certified
+  gaurang khator · gen-ai developer · full-stack engineer · aws certified
 ```
 
 **💻 Languages**
