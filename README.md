@@ -41,7 +41,6 @@ fields_of_interest:
 
 currently_learning:
   [
-    "LangGraph",
     "System Design"
   ]
 
@@ -53,7 +52,7 @@ hobbies: ["Cricket", "Open Source", "Building Side Projects"]
 - 🌐 Full-Stack Developer focused on MERN & Next.js ecosystems
 - ☁️ AWS Certified Cloud Practitioner
 - 🧠 LeetCode Knight with 1851 Rating
-- 💻 Solved 570+ DSA problems across coding platforms
+- 💻 Solved 600+ DSA problems across coding platforms
 - 🚀 Building AI-powered SaaS and cloud-native applications
 
 ---
